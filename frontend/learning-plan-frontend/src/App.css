@@ -1,0 +1,112 @@
+/* 
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.page-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+  color: #333;
+}
+
+.card {
+  background: #ffffff;
+  padding: 25px;
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.plan-card {
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.input {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  width: 100%;
+}
+
+.button {
+  padding: 12px 20px;
+  margin-top: 10px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+}
+
+.button.primary {
+  background-color: #4f46e5;
+  color: white;
+}
+
+.button.secondary {
+  background-color: #e0e7ff;
+  color: #4338ca;
+}
+
+.button.danger {
+  background-color: #ef4444;
+  color: white;
+}
+
+.button.small {
+  padding: 8px 12px;
+  font-size: 14px;
+  margin-right: 8px;
+}
+
+.topic-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.section-title {
+  margin-top: 20px;
+  font-size: 22px;
+  color: #555;
+}
+
+.topic-list {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+.topic-list li {
+  margin-bottom: 10px;
+}
+
+.resource-link {
+  color: #3b82f6;
+  text-decoration: none;
+}
+
+.resource-link:hover {
+  text-decoration: underline;
+}
+
+.date {
+  color: #6b7280;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
